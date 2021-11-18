@@ -1,0 +1,144 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #000;
+    background-image: url(../img/fondo-netflix.jpg);
+}
+
+.cabecera{
+    background-color: rgba(0, 0, 0, 0.61);
+    height: 100px;
+    margin: 10px 10px 30px;
+    border-radius: 5px;
+}
+
+.marca{
+    margin-left: 10px;
+    padding-top: 25px;
+}
+
+.logotipo{
+    width: 150px;
+    height: 40px;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+}
+
+.formulario{
+    background-color: rgba(0, 0, 0, 0.61);
+    width: 450px;
+    height: 650px;
+    border-radius: 5px;
+}
+
+.titulo{
+    color: #fff;
+    padding: 50px 70px 0px;
+    font-size: 30px;
+}
+
+.contenedor{
+    margin-left: 70px;
+    padding-top: 10px;
+}
+
+.mail{
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    width: 300px;
+    height: 50px;
+}
+
+.contraseña{
+    border: none;
+    border-radius: 5px;
+    background-color: #333;
+    width: 300px;
+    height: 50px;
+}
+
+.ini-ses{
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(211, 6, 6);
+    width: 300px;
+    height: 50px;
+}
+
+.ini-ses a{
+    text-decoration: none;
+    color: #FFF;
+    font-size: 15px;
+}
+
+.int-cont{
+    padding-bottom: 10px;
+}
+
+.int-ses{
+    padding: 10px;
+}
+
+.chkb{
+    padding: 10px;
+    color: rgb(163, 163, 163);
+}
+
+.facebook-ses{
+    margin-left: 70px;
+    padding-top: 30px;
+}
+
+.facebook-ses img{
+    width: 20px;
+    height: 20px;
+}
+
+.discl{
+    margin: 70px;
+    padding-top: 10px;
+    color: rgb(163, 163, 163);
+}
+
+.facebook-ses a{
+    text-decoration: none;
+    color: rgb(163, 163, 163);
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    padding: 100px 0px 30px;
+}
+
+.enl-con{
+    background-color: rgba(0, 0, 0, 0.61);
+    border-radius: 5px;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    width: 600px;
+}
+
+.contacto{
+
+}
+
+.enlaces{
+    padding-top: 25px;
+}
+
+.enlaces a{
+    text-decoration: none;
+    color: #fff;
+    padding-left: 40px;
+    padding-right: 40px;
+}
